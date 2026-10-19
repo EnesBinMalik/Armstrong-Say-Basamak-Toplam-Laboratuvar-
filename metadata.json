@@ -1,0 +1,6 @@
+{
+  "name": "Armstrong Sayı & Basamak Toplamı Laboratuvarı",
+  "description": "Armstrong sayı analizi ve basamak sayıları toplamı hesaplayıcı. Java kod çözümü, adım adım görselleştirme ve algoritma simülasyonu. Hazırlayan: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
